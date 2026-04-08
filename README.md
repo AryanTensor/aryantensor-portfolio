@@ -1,2 +1,2 @@
 # aryantensor-portfolio
-aryantensor.com
+https://aryantensor.com
